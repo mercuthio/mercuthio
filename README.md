@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm mercuthio​ <a href="https://linkedin.com/in/adrián-yago-hernández-42b42821b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrián-yago-hernández-42b42821b" height="20" width="30" /></a></h1> 
-Computer engineer 💻 and passionate about video games 🎮​ 
+Computer engineer and passionate about video games
 
 ## Life
 
